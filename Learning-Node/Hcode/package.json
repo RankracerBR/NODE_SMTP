@@ -1,0 +1,23 @@
+{
+  "name": "hcode",
+  "version": "1.0.0",
+  "main": "hello-world.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "npm",
+    "express",
+    "fs",
+    "path",
+    "url",
+    "mongodb",
+    "udp",
+    "crypto"
+  ],
+  "author": "Augusto Pontes",
+  "license": "MIT",
+  "description": ""
+}
