@@ -1,1 +1,0 @@
-Criando txt fictício para ler coma API nativa de FS
